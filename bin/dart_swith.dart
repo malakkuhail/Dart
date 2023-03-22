@@ -1,5 +1,5 @@
 void main(){
-  String avg ="A";
+   String avg ="A";
   switch (avg) {
     case "A":
       print("90");
