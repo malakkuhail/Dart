@@ -1,7 +1,7 @@
 
 import 'product.dart';
 
-class Book extends Product{
+ class Book extends Product{
   late int publishYear;
   late String author;
 
