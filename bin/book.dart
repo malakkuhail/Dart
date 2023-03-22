@@ -8,7 +8,7 @@ import 'product.dart';
   //Book(this.publishYear,this.author);
 
   // Book(this.publishYear,this.author,{name,cost,quantity})
-  //      super(name: name,cost: cost,quantity: quantity);
+  // super(name: name,cost: cost,quantity: quantity);
 
    Book(name, cost, quantity, p, auth)
        :publishYear=p,
