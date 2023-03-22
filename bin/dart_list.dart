@@ -2,7 +2,7 @@
 void main(){
 
   List <String> s=["malak","aya","huda","eman","noor"];
-  for(int i =0;i <s.length;i++){
+   for(int i =0;i <s.length;i++){
     if(s[i] == "huda 1"){
       print("exist");
       break;
