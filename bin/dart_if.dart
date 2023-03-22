@@ -2,13 +2,13 @@ void main() {
   ///if
   int x = 73;
   if (x <= 50) {
-    print("faild");
+     print("faild");
   } else if (x > 90) {
     print("good");
   }
 
   else if (x < 50 || x <= 60) {
-    print("مقبول");
+     print("مقبول");
   }
 
   else if (x < 60 || x <= 70) {
