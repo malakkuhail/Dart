@@ -1,5 +1,5 @@
 
- class Product{
+  class Product{
   late String name;
   late double cost;
   late int quantity;

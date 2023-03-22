@@ -1,6 +1,6 @@
 void main() {
   ///if
-  int x = 73;
+   int x = 73;
   if (x <= 50) {
      print("faild");
   } else if (x > 90) {
